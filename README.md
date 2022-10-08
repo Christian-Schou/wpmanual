@@ -27,8 +27,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![CQRS using Mediator Demo][product-screenshot]](https://christian-schou.dk/how-to-implement-cqrs-with-mediatr-in-asp-net/m)
-
 I originally made a website about WordPress in danish and it got a lot of attention and became the de-facto standard for many WordPress users, Hosting Companies and Agencies. I had to shut it down due to education and general lack of time. This time I am back with brand new plans for the website that will be hosted in multiple language using Neural Machine Learning by AWS and a version platform to select each version of WordPress for easier help-to-self-help.
 
 ### Built With
